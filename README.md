@@ -7,3 +7,5 @@ Note: requires Microsoft 365. Not suitable for Excel 2019 and earlier.
 
 Severel Techniques  and Excel Functions have been used to achieve this job such as :
 Excel Table, Excel Data Types, STOCKHISTORY Function, PivotTable, SUMIF Function, SORT Function, Conditional Formatting, Sparklines etc. 
+
+
